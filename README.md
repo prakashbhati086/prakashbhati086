@@ -1,5 +1,5 @@
-![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Ashokgehlot318/Ashokgehlot318/assets/118416828/bfe99612-965a-4f04-b873-25ddb3590e6f)
-<h1 align="center">Hi 👋, I'm Ashok Gehlot</h1>
+
+<h1 align="center">Hi 👋, I'm PRAKASH BHATI</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 
 <img align="right"  width="400" alt="Coding" src="https://github.com/Ashokgehlot318/Ashokgehlot318/assets/118416828/ab8547f1-4949-4eea-a8b4-5dbe753dea1e">
@@ -32,11 +32,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>
  
 <hr>
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokgehlot318&show_icons=true&locale=en&layout=compact" alt="ashokgehlot318" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashbhati086&show_icons=true&locale=en&layout=compact" alt="prakashbhati086" /></p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=ashokgehlot318&show_icons=true&locale=en" alt="ashokgehlot318" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=prakashbhati086&show_icons=true&locale=en" alt="prakashbhati086" /></p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashokgehlot318&" alt="ashokgehlot318" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=prakashbhati086&" alt="prakashbhati086" /></p>
 
 
 
