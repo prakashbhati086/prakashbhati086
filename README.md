@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRAKASH BHATI</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align="right" width="400" alt="Coding" src="https://github.com/Ashokgehlot318/Ashokgehlot318/assets/118416828/ab8547f1-4949-4eea-a8b4-5dbe753dea1e">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashbhati086&label=Profile%20views&color=0e75b6&style=flat" alt="prakashbhati086" /> </p>
 <p align="left"></p>
 
