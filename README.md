@@ -40,10 +40,10 @@
 
   <!-- Cybersecurity Tools -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nmap_logo.svg/1200px-Nmap_logo.svg.png" alt="Nmap" width="80" height="80" style="margin: 10px;"/>
+    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="80" height="80" style="margin: 10px;"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.metasploit.com/images/msf-logo.png" alt="Metasploit" width="80" height="80" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="Metasploit" width="80" height="80" style="margin: 10px;"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://www.portswigger.net/burp/images/logo.svg" alt="Burp Suite" width="80" height="80" style="margin: 10px;"/>
