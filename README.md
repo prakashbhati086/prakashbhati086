@@ -45,9 +45,13 @@
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="Metasploit" width="80" height="80" style="margin: 10px;"/>
   </a>
-  
-  <!-- Kali Linux - Text-based CSS styling -->
-  
+
+  <!-- Kali Linux - Adding logo from the provided URL -->
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="Kali Linux" width="80" height="80" style="margin: 10px;"/>
+  </a>
+
+ 
 </div>
 
 ---
