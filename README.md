@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRAKASH BHATI</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">A Passionate Cybersecurity Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prakashbhati086&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,12 +14,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80" style="margin: 10px;"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" style="margin: 10px;"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="80" height="80" style="margin: 10px;"/>
-</a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80" style="margin: 10px;"/>
 </a>
@@ -29,23 +23,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin: 10px;"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="80" style="margin: 10px;"/>
-</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" style="margin: 10px;"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80" style="margin: 10px;"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="80" height="80" style="margin: 10px;"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="80" height="80" style="margin: 10px;"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" style="margin: 10px;"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" style="margin: 10px;"/>
@@ -58,6 +37,23 @@
 </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="80" height="80" style="margin: 10px;"/>
+</a>
+
+<!-- Cybersecurity Tools -->
+<a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nmap_logo.svg/1200px-Nmap_logo.svg.png" alt="Nmap" width="80" height="80" style="margin: 10px;"/>
+</a>
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.metasploit.com/images/msf-logo.png" alt="Metasploit" width="80" height="80" style="margin: 10px;"/>
+</a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+  <img src="https://www.portswigger.net/burp/images/logo.svg" alt="Burp Suite" width="80" height="80" style="margin: 10px;"/>
+</a>
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kali_Linux_logo_2020.svg/1024px-Kali_Linux_logo_2020.svg.png" alt="Kali Linux" width="80" height="80" style="margin: 10px;"/>
+</a>
+<a href="https://cryptography.io/en/latest/" target="_blank" rel="noreferrer">
+  <img src="https://cryptography.io/en/latest/_images/logo.png" alt="Cryptography" width="80" height="80" style="margin: 10px;"/>
 </a>
 
 </div>
