@@ -38,21 +38,33 @@
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="80" height="80" style="margin: 10px;"/>
   </a>
 
-  <!-- Cybersecurity Tools -->
+  <!-- Cybersecurity Tools with text-based CSS logos -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="80" height="80" style="margin: 10px;"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="Metasploit" width="80" height="80" style="margin: 10px;"/>
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.portswigger.net/burp/images/logo.svg" alt="Burp Suite" width="80" height="80" style="margin: 10px;"/>
-  </a>
+  
+  <!-- Kali Linux - Text-based CSS styling -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kali_Linux_logo_2020.svg/1024px-Kali_Linux_logo_2020.svg.png" alt="Kali Linux" width="80" height="80" style="margin: 10px;"/>
+    <span style="font-size: 20px; font-weight: bold; color: #2c3e50; text-transform: uppercase; text-decoration: none; padding: 10px; background-color: #f39c12; border-radius: 5px; margin: 10px; display: inline-block; transition: all 0.3s ease;">
+      Kali Linux
+    </span>
   </a>
+
+  <!-- Burp Suite - Text-based CSS styling -->
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <span style="font-size: 20px; font-weight: bold; color: #ecf0f1; background-color: #e74c3c; padding: 10px; border-radius: 5px; margin: 10px; text-transform: uppercase; text-decoration: none; display: inline-block; transition: all 0.3s ease;">
+      Burp Suite
+    </span>
+  </a>
+  
+  <!-- Cryptography - Text-based CSS styling -->
   <a href="https://cryptography.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://cryptography.io/en/latest/_images/logo.png" alt="Cryptography" width="80" height="80" style="margin: 10px;"/>
+    <span style="font-size: 20px; font-weight: bold; color: #34495e; background-color: #2ecc71; padding: 10px; border-radius: 5px; margin: 10px; text-transform: uppercase; text-decoration: none; display: inline-block; transition: all 0.3s ease;">
+      Cryptography
+    </span>
   </a>
 </div>
 
