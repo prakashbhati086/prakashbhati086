@@ -47,21 +47,19 @@
   </a>
   
   <!-- Kali Linux - Text-based CSS styling -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  
     <span style="font-size: 20px; font-weight: bold; color: #2c3e50; text-transform: uppercase; text-decoration: none; padding: 10px; background-color: #f39c12; border-radius: 5px; margin: 10px; display: inline-block; transition: all 0.3s ease;">
       Kali Linux
     </span>
   </a>
 
   <!-- Burp Suite - Text-based CSS styling -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <span style="font-size: 20px; font-weight: bold; color: #ecf0f1; background-color: #e74c3c; padding: 10px; border-radius: 5px; margin: 10px; text-transform: uppercase; text-decoration: none; display: inline-block; transition: all 0.3s ease;">
       Burp Suite
     </span>
   </a>
   
   <!-- Cryptography - Text-based CSS styling -->
-  <a href="https://cryptography.io/en/latest/" target="_blank" rel="noreferrer">
     <span style="font-size: 20px; font-weight: bold; color: #34495e; background-color: #2ecc71; padding: 10px; border-radius: 5px; margin: 10px; text-transform: uppercase; text-decoration: none; display: inline-block; transition: all 0.3s ease;">
       Cryptography
     </span>
